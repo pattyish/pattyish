@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pattyish
+- 👋 Hi, I’m Patrick Ishimwe
 - 👀 I’m interested in software engineering and machine learning projects
 - 🌱 I’m currently pursuing master od science in information technology
 - 💞️ I’m looking to collaborate on interesting and challenging software and machine learning projects
