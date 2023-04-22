@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patrick Ishimwe
 - 👀 I’m interested in software engineering, Data science and machine learning projects
-- 🌱 I’m currently pursuing master od science in information technology
+- 🌱 I’m currently pursuing master of science in information technology
 - 💞️ I’m looking to collaborate on interesting and challenging software, data science and data engineering and machine learning projects
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=pattyish&show_icons=true&theme=tokyonight)
