@@ -2,11 +2,14 @@
 - 👀 I’m interested in software engineering, Data science and machine learning projects
 - 🌱 I’m currently pursuing master od science in information technology
 - 💞️ I’m looking to collaborate on interesting and challenging software, data science and data engineering and machine learning projects
-- 📫 Reach via my email: pishimwe@andrew.cmu.edu/patrickishimwe16@gmail.com
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=pattyish&show_icons=true&theme=tokyonight)
 ![My top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pattyish&layout=compact&theme=tokyonight)
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pattyish&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)
+
+
+
+📫 Reach via my email: pishimwe@andrew.cmu.edu/patrickishimwe16@gmail.com
 
 <!---
 pattyish/pattyish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
