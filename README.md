@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Patrick Ishimwe
-- 👀 I’m interested in software engineering, Data science and machine learning projects
+- 👀 I’m interested in Software/Data engineering, Data science and machine learning projects
 - 🌱 I’m currently pursuing master of science in information technology
-- 💞️ I’m looking to collaborate on interesting and challenging software, data science and data engineering and machine learning projects
+- 💞️ I’m looking to collaborate on interesting and challenging software/data engineering, data science and machine learning projects
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=pattyish&show_icons=true&theme=tokyonight)
 ![My top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pattyish&layout=compact&theme=tokyonight)
@@ -9,7 +9,7 @@
 
 
 
-📫 Reach via my email: pishimwe@andrew.cmu.edu/patrickishimwe16@gmail.com
+📫 Reach via my email: pishimwe@alumni.cmu.edu/patrickishimwe16@gmail.com/patrick.ishimwe@emory.edu
 
 <!---
 pattyish/pattyish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
