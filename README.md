@@ -9,7 +9,7 @@
 
 
 
-📫 Reach via my email: pishimwe@alumni.cmu.edu/patrickishimwe16@gmail.com/patrick.ishimwe@emory.edu
+📫 Reach via my email: pishimwe@alumni.cmu.edu/patrickishimwe10@gmail.com/patrick.ishimwe@emory.edu
 
 <!---
 pattyish/pattyish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
